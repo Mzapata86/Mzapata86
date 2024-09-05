@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Hola 👋  soy Madeleyn  ✨ </h1> 
 
-<!--
-**Mzapata86/Mzapata86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+ <a href="https://www.linkedin.com/in/madeleyn-palacios-zapata-00285126?trk=contact-info" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href = "mailto:mpalacioszapata22@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
+<br>
+<h2>Sobre mi 😃</h2>
+<!--Intro start-->
 
-Here are some ideas to get you started:
+<p align="left">
+🎓 INGENIERA EN INFORMÁTICA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 actualizandome dia a dia el proceso de desarrollo de software 🙈
+
+📝 roles en el ámbito: desarrolladora junior
+
+📫 Contacto: **mpalacioszapata22@gmail.com**
+<!--Intro end-->
+  </p>
+<br>
+
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,php,py,css,html,js,nodejs,mysql,firebase,git,github,vscode,ps&perline=12" />
+  </a>
+</p>
+<br>
+<!-------------------------->
+
+<!------------------------->
+<div id="Amor ❤️ por los perritos ">
+<h2>Adopta NO compres 🐶</h2>
+
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>    
+    
+<!--- stats (end) -->
